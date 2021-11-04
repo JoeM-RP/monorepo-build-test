@@ -1,6 +1,0 @@
-module Pods_appsecond {
-  umbrella header "Pods-appsecond-umbrella.h"
-
-  export *
-  module * { export * }
-}
